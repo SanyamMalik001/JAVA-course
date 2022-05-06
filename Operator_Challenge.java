@@ -1,4 +1,5 @@
 public class Operator_Challenge {
+    // This is a challenge to learn operators usage
     public static void main(String[] args) {
         double doub_var1 = 20.00d, doub_var2 = 80.00d;
         double res1 = (doub_var1+doub_var2)*100.00;
