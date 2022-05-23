@@ -1,4 +1,4 @@
-
+//This is a coding exercise SpeedConverter that converts kmph to mph.
 
 public class SpeedConverter {
     public static long toMilesPerHour(double kilometersPerHour) {
