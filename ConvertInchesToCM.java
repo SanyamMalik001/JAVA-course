@@ -1,4 +1,4 @@
-package com.learningjavapackage;
+
 
 public class ConvertInchesToCM {
     public static double calcFeetAndInchesToCentimeters(double feet, double inches){
