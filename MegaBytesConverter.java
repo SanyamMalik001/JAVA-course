@@ -1,4 +1,3 @@
-package com.learningjavapackage;
 
 
 public class MegaBytesConverter {
