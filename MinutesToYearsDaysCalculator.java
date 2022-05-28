@@ -1,5 +1,3 @@
-package com.learningjavapackage;
-
 public class MinutesToYearsDaysCalculator {
     public static void printYearsAndDays(long minutes){
         long years,days;
