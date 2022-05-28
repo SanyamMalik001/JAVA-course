@@ -1,5 +1,3 @@
-package com.learningjavapackage;
-
 public class AreaCalculator {
     public static double area(double radius){
         if(radius<0)
